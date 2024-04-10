@@ -1,0 +1,14 @@
+/home/doosyaa/dotnet/qwerty/bin/Debug/net8.0/qwerty
+/home/doosyaa/dotnet/qwerty/bin/Debug/net8.0/qwerty.deps.json
+/home/doosyaa/dotnet/qwerty/bin/Debug/net8.0/qwerty.runtimeconfig.json
+/home/doosyaa/dotnet/qwerty/bin/Debug/net8.0/qwerty.dll
+/home/doosyaa/dotnet/qwerty/bin/Debug/net8.0/qwerty.pdb
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.GeneratedMSBuildEditorConfig.editorconfig
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.AssemblyInfoInputs.cache
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.AssemblyInfo.cs
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.csproj.CoreCompileInputs.cache
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.dll
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/refint/qwerty.dll
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.pdb
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/qwerty.genruntimeconfig.cache
+/home/doosyaa/dotnet/qwerty/obj/Debug/net8.0/ref/qwerty.dll
